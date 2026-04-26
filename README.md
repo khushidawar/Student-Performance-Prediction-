@@ -37,8 +37,6 @@ Class Distribution: Bar charts showing the count of students in each risk catego
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
-Author: [Your Name/GitHub Profile]
-
 Project: IOHE Student Risk Analysis
 """
 return readme_content
