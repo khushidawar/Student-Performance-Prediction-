@@ -1,3 +1,8 @@
+Name of Student1 : Muskan (ID:22109901944)
+Name of Student2 : Khushi (ID:22109901796)
+Name of Student3 : Mugdha (ID:2210990585)
+Name of Student4 : Himanshi (ID:2210990403)  
+
 # Student-Performance-Prediction 
 
 Create a virtual environment (optional but recommended):
